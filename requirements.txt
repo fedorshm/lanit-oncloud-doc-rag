@@ -1,0 +1,8 @@
+pandas
+langchain
+transformers
+sentence-transformers
+faiss-cpu
+bitsandbytes
+torch
+python-telegram-bot==20.7
