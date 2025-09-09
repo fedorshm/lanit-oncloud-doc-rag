@@ -6,3 +6,4 @@ faiss-cpu
 bitsandbytes
 torch
 python-telegram-bot==20.7
+accelerate
