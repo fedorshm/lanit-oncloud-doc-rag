@@ -76,7 +76,7 @@
 
 ## Использование
 
-Проверить работу RAG-системы (начиная с создания чанков и заканчивая инференсом модели) можно в [блокноте Colab]([url](https://colab.research.google.com/drive/1kh8Zu4Os5ZXpUCZ15_oDR0mOiv0yoiqt?usp=sharing)).
+Проверить работу RAG-системы (начиная с создания чанков и заканчивая инференсом модели) можно в [блокноте Colab](https://colab.research.google.com/drive/1kh8Zu4Os5ZXpUCZ15_oDR0mOiv0yoiqt?usp=sharing).
 
 Перенесети данные из папки data этого репозитория в среду Colab для работы. 
 
