@@ -1,4 +1,4 @@
-# RAG чат-бот по документации [OnCloud]([url](https://oncloud.ru/documentation))
+# RAG чат-бот по документации [OnCloud](https://oncloud.ru/documentation)
 
 
 ## Описание проекта
