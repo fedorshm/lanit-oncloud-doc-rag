@@ -22,7 +22,7 @@
 - **Эмбеддинги**: `sentence-transformers` (`DeepPavlov/rubert-base-cased-sentence`)
 - **Векторный поиск**: `faiss-cpu`
 - **Генерация текста**: `transformers` (`IlyaGusev/saiga_llama3_8b`)
-- **Фреймворк ML**: `torch` (с поддержкой CUDA)
+- **Фреймворк ML**: `torch`
 - **Обработка CSV**: `pandas`
 
 ---
